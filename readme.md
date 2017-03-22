@@ -12,7 +12,7 @@ Its a cli to create Angular2 project development environment.
 # How to Use
  
  Run-
- > npm install xli-cli
+ > npm install -g xli-cli
 
  Then-
  > xli-cli
