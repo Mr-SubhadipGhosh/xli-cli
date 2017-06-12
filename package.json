@@ -12,7 +12,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-   "xli-cli": "./index.js"
+   "xli-cli": "./bin/xli-cli"
   },
   "author": "",
   "license": "MIT",
